@@ -64,13 +64,13 @@ html, body {
     /* RGB(165, 174, 183), RGB(211, 169, 153) */
 }
 
-html.dark, body.dark {
+html.dark, html.dark body {
     background: rgb(51, 47, 48);
     color: rgb(249, 249, 249);
     /* RGB(128, 132, 141), RGB(179, 180, 184) */
 }
 
-html.blue, body.blue {
+html.blue, html.blue body {
     background: rgb(55, 66, 88);
     color: rgb(235, 235, 235);
     /* RRGB(173, 185, 201) */
